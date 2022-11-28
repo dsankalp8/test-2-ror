@@ -40,4 +40,5 @@ artifacts:
     - 'log/**/*'
     - 'public/**/*'
     - 'vendor/**/*'
+    - 'doc/**/*'
     - 'template-configuration.json'
